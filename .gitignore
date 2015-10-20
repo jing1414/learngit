@@ -4,3 +4,4 @@ ehthumbs.db
 #My configurations:
 db.ini
 deploy_key_rsa
+testignoredir
